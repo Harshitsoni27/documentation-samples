@@ -10,7 +10,7 @@ In a professional setting, I use **VS Code**, **Markdown**, **Git**, **JIRA**, a
 
 ---
 
-### 🧭 Documentation Workflow
+### Documentation Workflow
 
 When creating documentation, I follow a structured approach:
 
@@ -21,7 +21,7 @@ When creating documentation, I follow a structured approach:
 
 ---
 
-### ⚙️ Work Methodology
+### Work Methodology
 
 In the workplace, I follow the **Agile methodology**, which involves:
 - Working in sprints.  
